@@ -1,2 +1,2 @@
-# TicTacToePrjFinal
+# MyReactApp
 Created with CodeSandbox
